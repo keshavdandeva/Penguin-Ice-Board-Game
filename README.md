@@ -3,13 +3,14 @@ This is the readme file for **penguin game** for **team 07** .
 Current file structure is defined below :
 ___
 ### File Structure
-      -EPFU_Report_1.pdf
-      -EPFU_Report_2.pdf
-      -EPFU_Report_3.pdf
-      -EPFU_Report_4.pdf
-      -EPFU_Report_5.pdf
-      -EPFU_Final_Report_6.pdf
-      -README.md
+      -Reports
+       EPFU_Report_1.pdf
+       EPFU_Report_2.pdf
+       EPFU_Report_3.pdf
+       EPFU_Report_4.pdf
+       EPFU_Report_5.pdf
+       EPFU_Final_Report_6.pdf
+      
       
       -Flowcharts
        flowchart_detailed_beta1.0.pdf
@@ -68,6 +69,8 @@ ___
        placing_penguins.h
        player.h
        tiles.h
+       
+       -README.md
        
      
 ### Explainations
